@@ -8,7 +8,7 @@
 ## 安装
 安装插件,在博客根目录[Blogroot]下打开终端，运行以下指令：
 ```shell
-npm install hexo-butterfly-footer-marcus --save
+npm install https://github.com/landv/hexo-butterfly-footer-landv --save
 ```
 如果需要随机友联的话,再运行以下指令：
 ```shell
